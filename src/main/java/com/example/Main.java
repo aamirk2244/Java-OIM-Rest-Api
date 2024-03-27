@@ -8,6 +8,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException{
          OimUsers.displayAllUsers(); 
-        // createUser.create();
+         System.out.println("**************************************************");
+		 createUser.create();
     }
 }
